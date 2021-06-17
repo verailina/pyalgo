@@ -5,7 +5,7 @@ from pyalgo.graphalgo import Graph
 
 
 def test_graph__init__():
-    # Empty graph
+    # Empty graphalgo
     g = Graph()
     assert len(g._edges) == 0
 
